@@ -18,6 +18,9 @@ background-color:blue;
 .holder{
 	width:100%;
    display:flex;
-  align-content:space-between;
-	flex-wrap:wrap;
+  justify-content:space-between;
+ flex-wrap:wrap;
+}
+div{
+	width:100px;
 }
